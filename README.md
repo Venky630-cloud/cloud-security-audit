@@ -1,4 +1,3 @@
-# cloud-security-audit
 # AuditX Cloud Security
 
 AuditX is an AI-powered cloud security auditing platform designed to identify misconfigurations in AWS environments.
